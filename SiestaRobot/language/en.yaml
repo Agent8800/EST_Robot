@@ -25,7 +25,7 @@ group_start_text: |
   *Started active since :* `{}`
 
 pm_about_text: |
-  ✺ Hey Darling I'm *Siesta Robot*, a powerful group management bot built to help you manage your group easily. ✺
+  ✺ Hey Darling I'm *Mitsura Robor*, a powerful group management bot built to help you manage your group easily. ✺
 
   ✪ I can restrict users.
   ✪ I can greet users with customizable welcome messages and even set a group's rules.
@@ -39,7 +39,7 @@ pm_about_text: |
 pm_about_admin_text: |
   *✺ Let's make your group bit effective now ✺*
 
-  Congragulations, Siesta Robot now ready to manage your group.
+  Congragulations, Mitsura Robot now ready to manage your group.
 
   *Admin Tools*
   Basic Admin tools help you to protect and powerup your group.
@@ -54,11 +54,11 @@ pm_about_notes_text: |
   ✪ You can save message/media/audio or anything as notes to get a note simply use # at the beginning of a word
   ✪ You can also set buttons for notes and filters (refer help menu)
 pm_about_support_text: |
-  *✺ Siesta Robot support chats ✺*
+  *✺ Mitsura Robot support chats ✺*
 
   Join My Support Group/Channel for see or report a problem on Siesta.
 pm_about_credit_text: |
-  *✺ Credis for Siesta ✺*
+  *✺ Credis for Mitsura ✺*
 
   Here Developers Making And Give Inspiration For Made The Siesta Robot
 pm_help_text: |
@@ -89,7 +89,7 @@ notes_button: "Notes"
 source_button: "Source Code"
 help_button: "Get Help"
 back_button: "Go back"
-about_button: "About Siesta Robot"
+about_button: "About Me"
 inline_button: "Try inline!​​"
 
 # MODULES
