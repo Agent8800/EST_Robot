@@ -210,9 +210,11 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(text=gs(chat.id, "about_button"), callback_data="siesta_"),
+                            InlineKeyboardButton(text=gs(chat.id, "Network_button"), url="t.me/TeamXYZAssociation"),
                         ],
                         [
                             InlineKeyboardButton(text=gs(chat.id, "help_button"), callback_data="help_back"),
+                            InlineKeyboardButton(text=gs(chat.id, "Logs_button"), url="t.me/teamxyzlogs"),
                             InlineKeyboardButton(text=gs(chat.id, "inline_button"), switch_inline_query_current_chat=""),
                         ],
                         [
